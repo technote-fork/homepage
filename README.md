@@ -100,5 +100,3 @@ yarn test
 ### 使用されている技術にはどんなものがありますか？
 
 [こちら](./documents/environment/README.md)を確認してください
-
-.
